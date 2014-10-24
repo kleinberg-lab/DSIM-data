@@ -20,7 +20,7 @@ Data folder organization:
 
 2) "actual_data" contains the actual data for 10 patients of DSIM dataset. 
 
-3) "missing_data" contains all simulated missing values of actual data. Missing values are simulated for 5\%-50\% missing ratios with a step size of 5\%.
+3) "missing_data" contains all simulated missing values of actual data. Missing values are simulated for 5%-50% missing ratios with a step size of 5%.
 
 4) "full_row_missing" contains simulated missing data where all variables in a row is missing. 
 
